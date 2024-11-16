@@ -1,6 +1,6 @@
-# Visual Sorts
+## About
 
-Visualization of the bubble, insertion, cocktail, comb and selection sorts in python + Tkinter
+Visualization of the bubble, insertion, cocktail, comb and selection sorts in python + Tkinter made in a few hours.
 
 ## Dependencies:
 - Tkinter
